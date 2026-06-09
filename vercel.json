@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://shopee.co.id/link-produk-anda",
+      "permanent": false
+    }
+  ]
+}
